@@ -1,0 +1,244 @@
+.box_global {
+    background: #D52047;
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+   
+}
+/*1*/
+.box1 {
+    position: absolute;
+    width: 410px;
+    height: 195px;
+    left: 165px;
+    top: 122px;
+}
+.text1,
+.text2 {
+    color: white;
+
+}
+.text1 {
+    font-size: 36px;
+    font-family: Lato;
+
+}
+.text2 {
+    font-size: 14px;
+    font-family: Lato;
+    line-height: 140%;
+}
+.photo {
+    position: absolute;
+    width: 533px;
+    height: 311px;
+    left: 691px;
+    top: 94px;
+}
+.photo2 {
+    position: absolute;
+    width: 134px;
+    height: 32px;
+    left: 163px;
+    top: 357px;
+    cursor: pointer;
+}
+/*2*/
+.box2 {
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 500px;
+}
+.box_Contact {
+    position: absolute;
+    width: 445px;
+    height: 160px;
+    left: 176px;
+    top: 177px;
+    color: #000000;
+}
+.text3 {
+    font-size: 36px;
+    font-family: Lato;
+    font-family: Lato;
+}
+.text4 {
+    font-size: 14px;
+    line-height:2;
+    font-family: Lato;
+}
+.box_bt {
+    position: absolute;
+    width: 540px;
+    height: 305px;
+    left: 735px;
+    top: 617px;
+
+}
+.box_bt {
+    position: absolute;
+    width: 625px;
+    height: 305px;
+    left: 735px;
+    top: 230px;
+}
+.first {
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 255px;
+    height: 60px;
+    padding-left: 31px;
+    color: rgba(19, 39, 67, 0.5);
+    font-size: 16px;
+    font-family: Lato;
+}
+.last {
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding-left: 31px;
+    margin-left: 30px;
+    color: rgba(19, 39, 67, 0.5);
+    font-size: 16px;
+    font-family: Lato;
+}
+.phone {
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    left: 0;
+    top: 84px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding-left: 31px;
+    color: rgba(19, 39, 67, 0.5);
+    font-size: 16px;
+    font-family: Lato;
+}
+.select {
+    position: absolute;
+    top: 168px;
+    left: 0px;
+    height: 60px;
+    width: 540px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+    font-size: 16px;
+    font-family: Lato;
+}
+.Submit_Now {
+    position: absolute;
+    left: 0px;
+    top: 255px;
+    height: 50px;
+    width: 160px;
+    font-size: 14px;
+    font-family: Lato;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color:white;
+    cursor: pointer;
+}
+.text_footer2{
+    width: 1440px;
+    height: 435px;
+    left: 0px;
+    top: 1045px; 
+}
+
+.footer_box1 {
+    position: absolute;
+    width: 158px;
+    height: 264px;
+    left: 161px;
+    top: 1130px;
+}
+.text_adress {
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text_footer1 {
+    font-size: 12px;
+    font-family: Lato;
+    position: absolute;
+    top: 55px;
+    line-height: 150%;
+}
+.text_footer2 {
+    font-size: 12px;
+    position: absolute;
+    top: 250px;
+}
+.footer_box2 {
+    position: absolute;
+    width: 254px;
+    height: 164px;
+    left: 450px;
+}
+.Services {
+    position: absolute;
+    width: 67px;
+    height: 22px;
+    left: 100px;
+    top: 1130px;   
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+.text_footer3 {
+    position: absolute;
+    width: 87px;
+    height: 114px;
+    left: 100px;
+    top: 1180px;
+    line-height: 160%;
+    font-size: 12px;
+}
+.footer_box4 {
+    position: absolute;
+    width: 155px;
+    height: 128px;
+    left: 849px;
+    top: 1130px;
+}
+.Get {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Lato;
+    cursor: pointer;
+}
+.text_footer4 {
+    font-size: 12px;
+    font-family: Lato;
+    line-height: 35px;
+    cursor: pointer;
+}
+.f {
+    cursor: pointer; 
+}
+.We_Support {
+    position: absolute;
+    width: 97px;
+    height: 22px;
+    left: 1150px;
+    top: 1130px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
