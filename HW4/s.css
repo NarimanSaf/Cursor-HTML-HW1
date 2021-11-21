@@ -1,9 +1,15 @@
+.body {
+   
+	margin:0px;
+	padding:0px;
+}
 .box_global {
-    background: #D52047;
-    position: absolute;
+    background: #ED4C5C;
+    position: relative;
     width: 1440px;
     height: 500px;
-   
+    padding: auto;
+    margin: auto; 
 }
 /*1*/
 .box1 {
